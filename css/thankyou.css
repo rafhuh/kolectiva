@@ -1,0 +1,36 @@
+body {
+    margin: 0px;
+    background-color: #262324;
+    font-family: Raleway;
+    color: #ED3482;
+    line-height: 30pt;  
+}
+
+h1 {
+    color: #ED3482;
+    font-family: Raleway;
+    text-transform: uppercase;
+    letter-spacing: 1px; 
+    text-align: center;
+    font-size: 50px;
+    margin-top: 250px;
+}
+
+h2 {
+    color: #fff;
+    font-family: Raleway;
+    letter-spacing: 1px; 
+    text-align: center;
+    font-size: 30px;
+    margin-top: -50px;
+    font-weight: normal;
+}
+
+a {
+    color: #fff;
+    font-family: Raleway;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    font-weight: 500;
+}
